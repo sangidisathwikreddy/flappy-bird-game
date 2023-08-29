@@ -1,6 +1,5 @@
 # flappy-bird-game
 
-# Codeclause_goldenproject2_FlappyBirdGame
 The objective of this game is to move the bird forward and avoid obstacles along the way. A bird is scrolled to the right side of the screen without getting hit by the pipes placed on its way as obstacles. The bird needs to be flapping constantly otherwise it will fall down and die. A button is used for this flapping.
 The prerequisite of this project is the basic knowledge of python.
 
